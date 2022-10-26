@@ -4,3 +4,4 @@ testing this time i changed the text
 4th line text change name
 5th line added
 6th line for commit
+7th line added
